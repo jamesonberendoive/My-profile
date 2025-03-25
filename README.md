@@ -1,6 +1,7 @@
 # My-profile
 # 💫 About Me:
-I'm an IT Incident Management Analyst who <br>is actually learning Web Developement. I'm looking for big projects<br>to participate<br>
+Dedicated and detail-oriented IT Professional with expertise in technical support, systems troubleshooting, and IT Management. Proficient in Operating systems, cloud platforms, and networking, with a strong commitment to continuous learning and professional growth. Currently enhancing cybersecurity expertise in Npower’s Advanced Cybersecurity Program (Feb – Jun 2025). Known for problem-solving abilities, strong communication, and a focus on delivering efficient technical solutions. ![image](https://github.com/user-attachments/assets/612ee596-0006-4cb0-8c90-92b2a24b9e42)
+
 
 
 ## 🌐 Socials:
